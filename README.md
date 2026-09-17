@@ -99,7 +99,3 @@ Developers are welcome to contribute to RAC.
 - LuYaoQi created this project because of a dislike for paid scripts and closed-off projects: the goal is to provide something free and open-source.
 - Hopefully, this software helps reduce the repetitive parts of playing Limbus Company, leaving more time to enjoy its performances and interesting mechanics. Games are meant to be enjoyed with a smile. :)
 
-## Star History
-
-
-[![Star History Chart](https://api.star-history.com/svg?repos=RatioRatPier/RimAssistantCompany&type=Date)](https://www.star-history.com/#RatioRatPier/RimAssistantCompany&Date)
