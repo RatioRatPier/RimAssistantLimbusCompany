@@ -1,6 +1,7 @@
 <div align="center">
 
-![image](/img/MagicGirl.png)
+<img width="474" height="198" alt="image" src="https://github.com/user-attachments/assets/bee0a721-8ad7-41e1-be93-486961136a0f" />
+
 
 # RimAssistantCompany
 
