@@ -20,18 +20,6 @@
 # RimAssistantCompany
 
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RatioRatPier/RimAssistantCompany/total)
-
-[![stars](https://img.shields.io/github/stars/RatioRatPier/RimAssistantCompany?style=social)](https://github.com/RatioRatPier/RimAssistantCompany)
-[![forks](https://img.shields.io/github/forks/RatioRatPier/RimAssistantCompany?style=social)](https://github.com/RatioRatPier/RimAssistantCompany)
-[![watching](https://img.shields.io/github/watchers/RatioRatPier/RimAssistantCompany?style=social)](https://github.com/RatioRatPier/RimAssistantCompany)
-
-![version](https://img.shields.io/github/v/release/RatioRatPier/RimAssistantCompany?color=%239c080b&style=flat-square)
-![platform](https://img.shields.io/badge/platform-Windows-purple)
-![license](https://img.shields.io/badge/license-AGPL3.0-orange)
-
-[![MirrorChan](https://img.shields.io/badge/MirrorChan-%239af3f6?logo=countingworkspro&logoColor=4f46e5)](https://mirrorchyan.com/zh/projects?rid=RAC&channel=stable)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/HSLix/RimAssistantCompany)
 
 🌟 If you find this project useful, please leave a star on the repository! 🌟
 
